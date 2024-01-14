@@ -143,7 +143,7 @@
         <div class="col-lg-6 align-self-center text-center text-lg-left">
           <blockquote>
             <p>&ldquo;Bekerja dalam bidang pertanian memberikan saya kesempatan untuk terlibat langsung dalam siklus kehidupan tanaman, dari penanaman hingga panen. Saya merasa bangga dan bersemangat melihat hasil jerih payah kami, dan ini memberikan arti yang lebih dalam dalam pekerjaan saya.&rdquo;</p>
-            <p><cite> &mdash; Corey Woods, @Dribbble</cite></p>
+            <p><cite> &mdash; Corey Woods</cite></p>
           </blockquote>
         </div>
         <div class="col-lg-6 align-self-end text-center text-lg-right">
@@ -157,7 +157,7 @@
         <div class="col-lg-6 align-self-center text-center text-lg-left">
           <blockquote>
             <p>&ldquo;Menjalani kehidupan sebagai nelayan membutuhkan ketekunan dan keterampilan khusus. Setiap hari di laut adalah petualangan baru, dan saya merasa terpanggil untuk menjaga keseimbangan ekosistem laut sambil mencari nafkah. Mengelilingi diri saya dengan lautan biru dan langit yang luas memberi saya rasa kedamaian dan kebebasan yang sulit dijelaskan.&rdquo;</p>
-            <p><cite> &mdash; Chris Peters, @Google</cite></p>
+            <p><cite> &mdash; Chris Peters</cite></p>
           </blockquote>
         </div>
         <div class="col-lg-6 align-self-end text-center text-lg-right">
